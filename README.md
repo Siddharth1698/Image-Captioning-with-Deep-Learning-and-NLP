@@ -1,5 +1,5 @@
 # Image-Captioning-with-Deep-Learning-and-NLP
-An image captioning model that uses flickr8k dataset trained for 100 epochs. 
+An image captioning model that uses flickr8k dataset with Deep learning and NLP
 
 Reference video: -> https://www.youtube.com/watch?v=y2BaTt1fxJU 
 
