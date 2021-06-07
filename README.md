@@ -4,4 +4,4 @@ An image captioning model that uses flickr8k dataset with Deep learning and NLP
 Reference video: -> https://www.youtube.com/watch?v=y2BaTt1fxJU 
 
 
-I have the pretrained model with all weights ran for 100 epochs in NVIDIA 1050 Ti. Please feel free to email me for the pretrained model.
+Model and checkpoint for 100 epoch: https://drive.google.com/drive/folders/1ThbT5oBHeZ83TyUisJUe9KRyfW2q9aJj?usp=sharing
