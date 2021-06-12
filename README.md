@@ -8,5 +8,5 @@ Model and checkpoint for 100 epoch: https://drive.google.com/drive/folders/1ThbT
 
 Steps:
 
-1. Run train.ipynb
+1. Download image-captioning-model.pth from google drive link.
 2. Run test.ipynb
