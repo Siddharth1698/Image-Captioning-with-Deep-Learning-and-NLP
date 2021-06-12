@@ -10,3 +10,7 @@ Steps:
 
 1. Download image-captioning-model.pth from google drive link.
 2. Run test.ipynb
+
+Working:
+
+![Gradio Running Image Captioning Code](gradio.png)
