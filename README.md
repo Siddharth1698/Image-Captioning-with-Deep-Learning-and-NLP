@@ -4,18 +4,31 @@ An image captioning model that uses flickr8k dataset with Deep learning and NLP
 Reference : -> https://arxiv.org/abs/1502.03044
 
 Required files to Run complete basic model:
+
 runs/flickr
+
 test_examples
+
 Metrics.ipynb
+
 get_loader.py
+
 model.py
+
 test.ipynb
+
 train.ipynb
+
 webcam_test.ipynb
+
 flickr8k
+
 my_checkpoint.pth.tar
+
 image-captioning-model.pth
+
 flikr8k/images/
+
 flikr8k/captions.txt
 
 Download the dataset used: https://www.kaggle.com/dataset/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb Then set images folder, captions.txt inside a folder Flickr8k.
